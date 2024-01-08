@@ -1,0 +1,45 @@
+.sidebar {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.nav-link:hover {
+  background-color: gray;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.icon-2 {
+  padding-left: 10px;
+}
+
+.content-icon {
+  padding-left: 30px;
+}
+
+.decor {
+  text-decoration: none;
+}
+
+.card-body-icon {
+  position: absolute;
+  z-index: 0;
+  top: 1px;
+  right: 15px;
+  opacity: 0.5;
+  font-size: 140px;
+}
+
+.jarak-card {
+  margin-left: 50px;
+}
+
+.gass {
+  min-height: 741px;
+}
+
+.sidebar-active {
+  background-color: gray;
+}
